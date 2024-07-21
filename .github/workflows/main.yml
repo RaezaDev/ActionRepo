@@ -20,8 +20,8 @@ jobs:
     - name: check Node Verion
       run: node --version
 
-    - name: running python script sample.py
-      run: python sample.py
+    - name: running python script hello.py
+      run: python hello.py
 
 
     # - name: Set up Python 3.10
